@@ -1,0 +1,32 @@
+
+
+body
+{
+    background: none;
+}
+
+.navbar
+{
+    z-index: 5;
+}
+
+.a1
+{
+    text-decoration: none;
+    color: rgb(80, 80, 80);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.a1:hover
+{
+    color: black;   
+}
+
+.msg
+{
+
+    color:rgb(41, 41, 41);
+    font-size:2rem;
+
+}
